@@ -4,7 +4,7 @@ I am **Rory McCarthy**, a Sophomore at the University of Notre Dame. I am a Fina
 ## A bit about me...
 + **Hometown**: Atlanta, Georgia 🍑
 
-+ **Skills**: Python, JavaScript, Microsoft Suite 💻
++ **Skills**: Python 🐍, JavaScript ☕, Microsoft Suite 🖥️
 
 + **Interests**: College Football 🏈, Travel ✈️, Irish History 📖, Lacrosse 🥍
 
