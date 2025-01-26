@@ -6,7 +6,7 @@ I am **Rory McCarthy**, a Sophomore at the University of Notre Dame. I am a Fina
 
 + **Skills**: Python, JavaScript, Microsoft Suite 💻
 
-+ **Interests**: College Football 🏈, Travel ✈️, Irish History 🇮🇪, Lacrosse 🥍
++ **Interests**: College Football 🏈, Travel ✈️, Irish History 📖, Lacrosse 🥍
 
 ## Feel free to reach out to me at...
 
