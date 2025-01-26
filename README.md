@@ -5,7 +5,11 @@ I am **Rory McCarthy**, a Sophomore at the University of Notre Dame. I am a Fina
 
 **Interests**: College Football, Travel, Irish History, NY Times Puzzles
 
-Feel free to reach out to me at **rmccart5@nd.edu**!
+Feel free to reach out to me at...
+
+**Email**: rmccart5@nd.edu
+
+**LinkedIn**: https://www.linkedin.com/in/rorymccarthy4/
 <!--
 **rmccart5/rmccart5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
