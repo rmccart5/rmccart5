@@ -6,7 +6,14 @@ I am **Rory McCarthy**, a Sophomore at the University of Notre Dame. I am a Fina
 
 + **Skills**: Python 🐍, JavaScript ☕, Microsoft Suite 🖥️
 
-+ **Interests**: College Football 🏈, Travel ✈️, Irish History 📖, Lacrosse 🥍
++ **Interests**: College Football 🏈, Travel ✈️, Irish History 📖, Lacrosse 🥍, Machine Learning 🧭
+
+## Some Cool Projects I've Worked On...
++ Unsupervised Machine Learning App🚋: https://mccarthy-data-science-portfolio-mlunsupervisedapp.streamlit.app/
+  
++ Supervised Machine Learning App⚓: https://mccarthy-data-science-portfolio-exploringml.streamlit.app/
+
++ Tidy Data Project🎖️: https://github.com/rmccart5/McCarthy-Data-Science-Portfolio/tree/main/TidyData-Project 
 
 ## Feel free to reach out to me at...
 
